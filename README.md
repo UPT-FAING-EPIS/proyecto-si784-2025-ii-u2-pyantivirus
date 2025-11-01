@@ -1,11 +1,11 @@
 # 🔍 UNIFIED ANTIVIRUS - Guía Técnica de Funcionamiento
 
 
-# Intregrantes:
+# Integrantes
 
-**- Sebastian Rodrigo ARCE BRACAMONTE**
-**- Brant Antony CHATA CHOQUE**
-**- JEFFERSON ROSAS CHAMBILLA**
+- **Sebastian Rodrigo ARCE BRACAMONTE**
+- **Brant Antony CHATA CHOQUE**
+- **JEFFERSON ROSAS CHAMBILLA**
 
 
 ## 📋 Índice de Respuestas Técnicas
